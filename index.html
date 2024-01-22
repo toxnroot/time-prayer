@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body style="direction: rtl;">
+    <img src="time.png" alt="">
+    <dev class="container">
+        <h1 id="title">القاهرة</h1>
+        <div class="time">
+            <p>الفجر</p>
+            <p id="fajr">--:--</p>
+        </div>
+        <div class="time">
+            <p>الشروق</p>
+            <p id="sunrise">--:--</p>
+        </div>
+        <div class="time">
+            <p>الضهر</p>
+            <p id="duhr">--:--</p>
+        </div>
+        <div class="time">
+            <p>العصر</p>
+            <p id="asr">--:--</p>
+        </div>
+        <div class="time">
+            <p>المغرب</p>
+            <p id="moghreb">--:--</p>
+        </div>
+        <div class="time">
+            <p>العشاء</p>
+            <p id="aisha">--:--</p>
+        </div>
+        
+    </dev>
+
+    <dev id="error" class="net">
+        <P>عفوا لايوجد اتصال بالانترنت</P>
+    </dev>
+
+    <select id="sel">
+        
+    </select>
+    <script src="node_modules/axios/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

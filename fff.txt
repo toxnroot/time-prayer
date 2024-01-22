@@ -1,0 +1,51 @@
+governorate	EG-DK	Ad Daqahlīyah		ar	BGN/PCGN 1956	
+governorate	EG-BA*	Al Baḩr al Aḩmar	Red Sea	ar	BGN/PCGN 1956	
+governorate	EG-BH	Al Buḩayrah		ar	BGN/PCGN 1956	
+governorate	EG-FYM	Al Fayyūm		ar	BGN/PCGN 1956	
+governorate	EG-GH	Al Gharbīyah		ar	BGN/PCGN 1956	
+governorate	EG-ALX	Al Iskandarīyah	Alexandria	ar	BGN/PCGN 1956	
+governorate	EG-IS	Al Ismā'īlīyah		ar	BGN/PCGN 1956	
+governorate	EG-GZ	Al Jīzah	Giza	ar	BGN/PCGN 1956	
+governorate	EG-MN	Al Minyā		ar	BGN/PCGN 1956	
+governorate	EG-MNF	Al Minūfīyah		ar	BGN/PCGN 1956	
+governorate	EG-KB	Al Qalyūbīyah		ar	BGN/PCGN 1956	
+governorate	EG-C	Al Qāhirah	Cairo	ar	BGN/PCGN 1956	
+governorate	EG-LX*	Al Uqşur	Luxor	ar	BGN/PCGN 1956	
+governorate	EG-WAD	Al Wādī al Jadīd	New Valley	ar	BGN/PCGN 1956	
+governorate	EG-SUZ	As Suways	Suez	ar	BGN/PCGN 1956	
+governorate	EG-SHR	Ash Sharqīyah		ar	BGN/PCGN 1956	
+governorate	EG-ASN	Aswān		ar	BGN/PCGN 1956	
+governorate	EG-AST	Asyūţ		ar	BGN/PCGN 1956	
+governorate	EG-BNS	Banī Suwayf		ar	BGN/PCGN 1956	
+governorate	EG-PTS	Būr Sa‘īd	Port Said	ar	BGN/PCGN 1956	
+governorate	EG-DT	Dumyāţ	Damietta	ar	BGN/PCGN 1956	
+governorate	EG-JS*	Janūb Sīnā'	South Sinai	ar	BGN/PCGN 1956	
+governorate	EG-KFS	Kafr ash Shaykh		ar	BGN/PCGN 1956	
+governorate	EG-MT	Maţrūḩ		ar	BGN/PCGN 1956	
+governorate	EG-KN	Qinā		ar	BGN/PCGN 1956	
+governorate	EG-SIN	Shamāl Sīnā'	North Sinai	ar	BGN/PCGN 1956	
+governorate	EG-SHG	Sūhāj	Sohag	ar	BGN/PCGN 1956	
+Change history of country code
+Effective date of change	Short description of change (en)	Short description of change (fr)
+2015-11-27	Addition of conventional/anglicised names as local variation to EG-BA, EG-ALX, EG-GZ, EG-C, EG-LX, EG-WAD, EG-SUZ, EG-PTS, EG-DT, EG-JS, EG-SIN, EG-SHG	Ajout des noms conventionels/anglicisés comme variation locale de EG-BA, EG-ALX, EG-GZ, EG-C, EG-LX, EG-WAD, EG-SUZ, EG-PTS, EG-DT, EG-JS, EG-SIN, EG-SHG
+2014-10-29	Delete EG-HU and EG-SU; update List Source	Suppression d'EG-HU et d'EG-SU; mise à jour de la Liste Source
+2010-06-30	Update of the administrative structure and of the list source	Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source.
+
+
+######################################################
+##########################################################
+
+province	SY-LA*	Al Lādhiqīyah		ar	BGN/PCGN 1956	
+province	SY-QU*	Al Qunayţirah		ar	BGN/PCGN 1956	
+province	SY-HA*	Al Ḩasakah		ar	BGN/PCGN 1956	
+province	SY-RA*	Ar Raqqah		ar	BGN/PCGN 1956	
+province	SY-SU*	As Suwaydā'		ar	BGN/PCGN 1956	
+province	SY-DR*	Dar'ā		ar	BGN/PCGN 1956	
+province	SY-DY*	Dayr az Zawr		ar	BGN/PCGN 1956	
+province	SY-DI*	Dimashq		ar	BGN/PCGN 1956	
+province	SY-ID*	Idlib		ar	BGN/PCGN 1956	
+province	SY-RD*	Rīf Dimashq		ar	BGN/PCGN 1956	
+province	SY-TA*	Ţarţūs		ar	BGN/PCGN 1956	
+province	SY-HL*	Ḩalab		ar	BGN/PCGN 1956	
+province	SY-HM*	Ḩamāh		ar	BGN/PCGN 1956	
+province	SY-HI*	Ḩimş		ar	BGN/PCGN 1956
