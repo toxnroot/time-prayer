@@ -22,7 +22,7 @@ getApi("Al Qāhirah");
 // Make a request for a pryer time with a given time
 function getApi(city = "") {
   axios
-    .get("http://api.aladhan.com/v1/timingsByCity", {
+    .get("https://api.aladhan.com/v1/timingsByCity", {
       params: {
         city: city,
         country: "EG",
